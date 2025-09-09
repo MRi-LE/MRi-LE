@@ -1,4 +1,4 @@
-![ReadMe Foto](/assets/images/test.png)
+![ReadMe Foto](https://github.com/MRi-LE/MRi-LE/blob/main/test.png)
 
 ## Greetings
 
