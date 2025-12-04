@@ -1,6 +1,3 @@
-![ReadMe Foto]<img width="768" height="301" alt="profile2" src="https://github.com/user-attachments/assets/e7e4b413-4367-49d8-9cf5-0c2aa13448cb" />
-
-
 
 ## Greetings
 
