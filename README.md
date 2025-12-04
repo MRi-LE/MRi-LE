@@ -1,4 +1,5 @@
-![ReadMe Foto](https://github.com/MRi-LE/MRi-LE/blob/main/test.png)
+![ReadMe Foto](https://github.com/user-attachments/assets/31253caa-f47a-41f4-9f46-1ee644f17bdb)
+
 
 ## Greetings
 
