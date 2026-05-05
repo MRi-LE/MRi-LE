@@ -1,2 +1,1 @@
-**MRi-LE/MRi-LE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Currently working on my Homelab and Automation
